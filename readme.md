@@ -22,3 +22,4 @@ Use your new Git & Bash skills in setting up a blog on Gitpages
 3. start wrining blog posts in the `_posts` folder
 
 If you aren't familiar with markdown I've written a [quick introduction here](https://github.com/ADGEfficiency/programming-resources/blob/master/markdown.md)
+# git-push--u-origin-master
